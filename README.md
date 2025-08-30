@@ -127,7 +127,4 @@ Criar progresso:
 | Como expandir? | Adicionar guards, relacionamentos avançados e métricas. |
 
 ## 🧾 Licença
-Uso educacional/demonstração. (Adicionar licença formal se necessário.)
-
----
-Se algo não estiver claro para apresentação, revise o roteiro acima primeiro.
+Uso educacional/demonstração.
